@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# API keys and secrets
+.env
+*.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# FAISS generated databases
+faiss_index/
+
+# Streamlit secrets
+.streamlit/secrets.toml
